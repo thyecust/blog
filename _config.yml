@@ -12,3 +12,4 @@ mathjax_src: https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MM
 remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
