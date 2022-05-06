@@ -3,8 +3,8 @@ title: thy blog
 email: thy@mail.ecust.edu.cn
 description: >-
   thy blog: languages, programming, computer science, math, thoughts
-baseurl: ""
-url: ""
+baseurl: "/blog"
+url: "http://blog.tianh.tech/"
 github_username:  thyecust
 mathjax_src: https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
 
