@@ -9,7 +9,8 @@ github_username:  thyecust
 mathjax_src: https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
 
 # Build settings
-remote_theme: mmistakes/minimal-mistakes
+theme: minimal-mistakes-jekyll # dev
+remote_theme: mmistakes/minimal-mistakes # deploy
 plugins:
   - jekyll-feed
   - jekyll-include-cache
